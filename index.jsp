@@ -69,7 +69,7 @@ h2
        <!-- Carousel items -->
         <div class="carousel-inner">
 
-				 <div class="active item" style="background: url(img/robot.jpg) no-repeat left center; background-size: cover;">
+				 <div class="active item" style="background: url(img/slide1.png) no-repeat left center; background-size: cover;">
 					 <div class="container">
 						 <div class="carousel-caption">
 								<h3>First slide label.</h3>
@@ -79,7 +79,7 @@ h2
 					 </div>
 				 </div>					
 
-         <div class="item" style="background: url(img/code4.jpg) no-repeat left center; background-size: cover;">
+         <div class="item" style="background: url(img/slide2.png) no-repeat left center; background-size: cover;">
                 <h2>Slide 2</h2>
                 <div class="carousel-caption">
                   <h3>Second slide label</h3>
@@ -88,7 +88,7 @@ h2
                 </div>
             </div>
 
-         <div class="item" style="background: url(img/keyboard.jpg) no-repeat left center; background-size: cover;">
+         <div class="item" style="background: url(img/slide3.png) no-repeat left center; background-size: cover;">
                 <h2>Slide 3</h2>
                 <div class="carousel-caption">
                   <h3>Third slide label</h3>
