@@ -20,17 +20,17 @@
 
 #### Assignment Screenshots:
 
-| Screenshot of running Hello | Screenshot of HelloServlet | | Screenshot of Query Book |
+| Screenshot of running Hello | Screenshot of HelloServlet | Screenshot of Query Book |
 | ---------- | ---------- | ---------- |
-| ![Screenshot of running Hello](img/hello.png) | ![HelloServlet Screenshot](img/say_hello.png) | | ![Query book screenshot](img/query.png) |
+| ![Screenshot of running Hello](img/hello.png) | ![HelloServlet Screenshot](img/say_hello.png) | ![Query book screenshot](img/query.png) |
 
 | Screenshot of Query Results| Screenshot of A2 index.jsp
 | ---------- | ---------- |
-| ![Query Results Screenshot](img/query_results.png) | | ![Index page Screenshot](img/a2.png) |
+| ![Query Results Screenshot](img/query_results.png) | ![Index page Screenshot](img/a2.png) |
 
 | Skillset 1 | Skillset 2 | Skillset 3 |
 | ---------- | ---------- | ---------- |
-| ![Screenshot of Skillset 1](img/ss1.png) | ![Screenshot of Skillset 2](img/ss2.png) | ![Screenshot of Skillset 3](img/ss3.png)
+| ![Screenshot of Skillset 1](img/ss1.png) | ![Screenshot of Skillset 2](img/ss2.png) | ![Screenshot of Skillset 3](img/ss3.png) |
 
 #### Bitbucket Link
 
