@@ -20,13 +20,13 @@
 
 #### Assignment Screenshots:
 
-| Screenshot of running Hello | Screenshot of HelloServlet |
-| ---------- | ---------- |
-| ![Screenshot of running Hello](img/hello.png) | ![HelloServlet Screenshot](img/say_hello.png) |
+| Screenshot of running Hello | Screenshot of HelloServlet | | Screenshot of Query Book |
+| ---------- | ---------- | ---------- |
+| ![Screenshot of running Hello](img/hello.png) | ![HelloServlet Screenshot](img/say_hello.png) | | ![Query book screenshot](img/query.png) |
 
-| Screenshot of Query Book | Screenshot of Query Results|
+| Screenshot of Query Results| Screenshot of A2 index.jsp
 | ---------- | ---------- |
-| ![Query book screenshot](img/query.png) | ![Query Results Screenshot](img/query_results.png) |
+| ![Query Results Screenshot](img/query_results.png) | | ![Index page Screenshot](img/a2.png) |
 
 | Skillset 1 | Skillset 2 | Skillset 3 |
 | ---------- | ---------- | ---------- |
