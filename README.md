@@ -15,11 +15,11 @@
     - Provide screenshots of installations
 
 2. [A2 README.md](a2/README.md "My A2 README.md file")
-   - Install MySQL Workbench
-   - Write HelloWorld Servlet
-   - Compile HelloWorld Servlet
-   - Write Query Servlet
-   - Compile Query Servlet
+    - Install MySQL Workbench
+    - Write HelloWorld Servlet
+    - Compile HelloWorld Servlet
+    - Write Query Servlet
+    - Compile Query Servlet
 
 3. [A3 README.md](a3/README.md "My A3 README.md file")
 
