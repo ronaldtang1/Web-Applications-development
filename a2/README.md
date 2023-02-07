@@ -1,51 +1,38 @@
-# LIS 4381 - Mobile Web Application Development
+# LIS 4368 - Advanced Web Applications Development 
 
 ## Ronald Tang
 
-### Assignment 1 Requirements:
+### Assignment 2 Requirements:
 
-*Three parts:*
+*Five parts:*
 
-1. Distributed Version Control with Git and Bitbucket
-2. Development Installations
-3. Chapter Questions (Chs 1,2)
+1. http://localhost:9999/hello(Displays directory! It should not! Needs index.html)
+2. http://localhost:9999/hello/HelloHome.html(Rename"HelloHome.html" to "index.html"so that users cannot see your files!)
+3. http://localhost:9999/hello/sayhello(invokes HelloServlet) Note: /sayhello maps to HelloServlet.class(changed web.xml file)
+4. http://localhost:9999/hello/querybook.html
+5. http://localhost:9999/hello/sayhi (invokes AnotherHelloServlet)
 
 #### README.md file should include the following items:
 
-* Screenshot of AMPPS Installation
-* Screenshot of running java Hello
-* Screenshot of running Android Studio - My First App
-* Git commands w/short descriptions
+* Screenshot of running servlets
+* Screenshot of skillsets
 * Bitbucket repo links
-
-> #### Git commands w/short descriptions:
-
-1. git init - initializes a new repository
-2. git status - displays the state of the working directory and the staging area
-3. git add - adds a change in the working directory to the staging area
-4. git commit - captures a snapshot of the project's currently staged changes
-5. git push - uploads local repository content to a remote repository
-6. git pull - updates the local version of a repository from a remote repository
-7. git clone - creates a clone or copy of the existing repository into the targeted repository
 
 #### Assignment Screenshots:
 
-*Screenshot of AMPPS running http://localhost*:
+| Screenshot of running Hello | Screenshot of HelloServlet |
+| ---------- | ---------- |
+| ![Screenshot of running Hello](img/hello.png) | ![HelloServlet Screenshot](img/say_hello.png) |
 
-![AMPPS Installation Screenshot](img/ampps.png "PHP and MySQL Screenshot")
+| Screenshot of Query Book | Screenshot of Query Results|
+| ---------- | ---------- |
+| ![Query book screenshot](img/query.png) | ![Query Results Screenshot](img/query_results.png) |
 
-*Screenshot of running java Hello*:
+| Skillset 1 | Skillset 2 | Skillset 3 |
+| ---------- | ---------- | ---------- |
+| ![Screenshot of Skillset 1](img/ss1.png) | ![Screenshot of Skillset 2](img/ss2.png) | ![Screenshot of Skillset 3](img/ss3.png)
 
-![JDK Installation Screenshot](img/jdk_install.png "Java Hello Screenshot")
-
-*Screenshot of Android Studio - My First App*:
-
-![Android Studio Installation Screenshot](img/android.png "Android Studio Screenshot")
-
-#### Tutorial Links:
-
-*Bitbucket Tutorial - Station Locations:*
-[A1 Bitbucket Station Locations Tutorial Link](https://bitbucket.org/ronaldtang1/bitbucketstationlocations/ "Bitbucket Station Locations")
+#### Bitbucket Link
 
 *Remote repository:*
 [My Remote Repository ](https://bitbucket.org/ronaldtang1/lis4381/ "My Remote Repository")
