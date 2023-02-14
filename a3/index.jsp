@@ -7,11 +7,11 @@
 <meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<meta name="description" content="My online portfolio that illustrates skills acquired while working through various project requirements.">
-	<meta name="author" content="Mark K. Jowett, Ph.D.">
+	<meta name="description" content="This page shows a Petstore Database along with the required SQL files.">
+	<meta name="author" content="Ronald Tang">
 	<link rel="icon" href="favicon.ico">
 
-	<title>LIS4368 - Assignment1</title>
+	<title>LIS4368 - Assignment 3</title>
 
 	<%@ include file="/css/include_css.jsp" %>		
 	
@@ -32,7 +32,7 @@
 					</div>
 
 					<b>Petstore Database (Entity Relationship Diagram):</b><br />
-					<img src="img/a3.png" class="img-responsive center-block" alt="A3 ERD" />
+					<img src="img/erd.png" class="img-responsive center-block" alt="A3 ERD" />
 
 					<br /> <br />
 					<b>MySQL Workbench and SQL Files:</b><br />

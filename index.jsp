@@ -73,7 +73,7 @@ h2
 					 <div class="container">
 						 <div class="carousel-caption">
 								<h3>First slide label.</h3>
-							 <p class="lead">Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget.</p>
+							 <p class="lead">Checked in my Linkedin Account.</p>
 							 <a class="btn btn-large btn-primary" href="#">Learn more</a>
 						 </div>
 					 </div>
@@ -83,7 +83,7 @@ h2
                 <h2>Slide 2</h2>
                 <div class="carousel-caption">
                   <h3>Second slide label</h3>
-                  <p>Aliquam sit amet gravida nibh, facilisis gravida odio.</p>
+                  <p>Check out my Bitbucket.</p>
 						 <!--  <img src="img/slide2.png" alt="Slide 2">									 -->						
                 </div>
             </div>
@@ -92,7 +92,7 @@ h2
                 <h2>Slide 3</h2>
                 <div class="carousel-caption">
                   <h3>Third slide label</h3>
-                  <p>Praesent commodo cursus magna, vel scelerisque nisl consectetur.</p>
+                  <p>Check out my Github repositories.</p>
 						<!--  <img src="img/slide3.png" class="img-responsive" alt="Slide 3">							 -->								
                 </div>
             </div>

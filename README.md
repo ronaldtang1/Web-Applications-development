@@ -22,12 +22,17 @@
     - Compile Query Servlet
 
 3. [A3 README.md](a3/README.md "My A3 README.md file")
+    - Screenshot of ERD
+    - Screenshot of a3/index.jsp
+    - Links to following the files:
+        * a3.mwb
+        * a3.sql
 
-4. [A4 README.md](a4/README.md "My A4 README.md file")
+1. [A4 README.md](a4/README.md "My A4 README.md file")
 
-5. [A5 README.md](a5/README.md "My A5 README.md file")
+2. [A5 README.md](a5/README.md "My A5 README.md file")
 
-6. [P1 README.md](p1/README.md "My P1 README.md file")
+3. [P1 README.md](p1/README.md "My P1 README.md file")
 
-7. [P2 README.md](p2/README.md "My P2 README.md file")
+4. [P2 README.md](p2/README.md "My P2 README.md file")
 
