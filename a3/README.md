@@ -24,6 +24,18 @@
 | ---------- | ---------- |
 | ![ERD Screenshot](img/erd.png) | ![Index page Screenshot](img/index.png) |
 
+*Screenshot of Petstore Table*:
+
+![Petstore Table Screenshot](img/petstore.png "Petstore Screenshot")
+
+*Screenshot of Pet Table*:
+
+![Pet Table Screenshot](img/pet.png "Pet Table Screenshot")
+
+*Screenshot of Customer Table*:
+
+![Customer Table Screenshot](img/customer.png "Customer Table Screenshot")
+
 *A3 docs: a3.mwb and a3.sql*: 
 
 [A3 MWB File](docs/a3.mwb "A3 ERD in .mwb format") 
@@ -32,7 +44,7 @@
 
 | Skillset 4 | Skillset 5 | Skillset 6 |
 | ---------- | ---------- | ---------- |
-| ![Screenshot of Skillset 1](img/ss4.png) | ![Screenshot of Skillset 2](img/ss5.png) | ![Screenshot of Skillset 3](img/ss6.png) |
+| ![Screenshot of Skillset 4](img/ss4.png) | ![Screenshot of Skillset 5](img/ss5.png) | ![Screenshot of Skillset 6](img/ss6.png) |
 
 #### Bitbucket Link:
 

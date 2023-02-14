@@ -34,9 +34,9 @@
 
 ![AMPPS Installation Screenshot](img/ampps.png "PHP and MySQL Screenshot")
 
-*Screenshot of running java Hello*:
+*Screenshot of Petstore Table*:
 
-![JDK Installation Screenshot](img/jdk_install.png "Java Hello Screenshot")
+![Petstore Table Screenshot](img/petstore.png "Petstore Screenshot")
 
 *Screenshot of Android Studio - My First App*:
 
