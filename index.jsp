@@ -69,7 +69,7 @@ h2
        <!-- Carousel items -->
         <div class="carousel-inner">
 
-				 <div class="active item" style="background: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)), url(img/slide2.png) no-repeat left center; background-size: contain;">
+				 <div class="active item" style="background: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)), url(img/slide2.png) no-repeat left center; background-size: cover;">
 					 <div class="container">
 						 <div class="carousel-caption">
 								<h3>Bitbucket Repository</h3>
@@ -79,7 +79,7 @@ h2
 					 </div>
 				 </div>					
 
-         <div class="item" style="background: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)), url(img/slide1.png) no-repeat left center; background-size: contain;">
+         <div class="item" style="background: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)), url(img/slide1.png) no-repeat left center; background-size: cover;">
                 <div class="carousel-caption">
                   <h3>LinkedIn</h3>
                   <p>View my LinkedIn profile below.</p>
@@ -88,7 +88,7 @@ h2
                 </div>
             </div>
 
-         <div class="item" style="background: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)), url(img/slide3.png) no-repeat left center; background-size: contain;">
+         <div class="item" style="background: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)), url(img/slide3.png) no-repeat left center; background-size: cover;">
                 <div class="carousel-caption">
                   <h3>Github</h3>
                   <p>View my Github profile below.</p>

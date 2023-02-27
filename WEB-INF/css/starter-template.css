@@ -15,3 +15,8 @@ h1
 	font-size: 36px;
 	font-family: "trebuchet ms", sans-serif;    
 }
+.navbar-inverse {
+	background-image: none;
+	background-color: lightblue !important;
+	border-color: lightblue !important;
+}
