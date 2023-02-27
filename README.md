@@ -33,6 +33,9 @@
 2. [A5 README.md](a5/README.md "My A5 README.md file")
 
 3. [P1 README.md](p1/README.md "My P1 README.md file")
+    - Add jQuery validation to p1/index.jsp
+    - Use regexp to only allow appropriate characters for each control
+    - After testing validation, use HTML5 property to limit the number of characters for each control
 
 4. [P2 README.md](p2/README.md "My P2 README.md file")
 
