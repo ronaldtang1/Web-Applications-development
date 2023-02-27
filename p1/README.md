@@ -1,51 +1,37 @@
-# LIS 4381 - Mobile Web Application Development
+# LIS 4368 - Advanced Web Applications Development 
 
 ## Ronald Tang
 
-### Assignment 1 Requirements:
+### Project 1 Requirements:
 
 *Three parts:*
 
-1. Distributed Version Control with Git and Bitbucket
-2. Development Installations
-3. Chapter Questions (Chs 1,2)
+1. Provide Bitbucket read-only access to lis4368 repo, include links to the other assignment repos you created in README.md, using Markdown syntax (README.md must also include screenshots as per above.)
+2. Blackboard Links: lis4368 Bitbucket repo
+3. Note: the carousel must contain (min. 3) slides that YOU created, that contain text and images that link to other content areas marketing/promoting your skills.
 
 #### README.md file should include the following items:
 
-* Screenshot of AMPPS Installation
-* Screenshot of running java Hello
-* Screenshot of running Android Studio - My First App
-* Git commands w/short descriptions
-* Bitbucket repo links
-
-> #### Git commands w/short descriptions:
-
-1. git init - initializes a new repository
-2. git status - displays the state of the working directory and the staging area
-3. git add - adds a change in the working directory to the staging area
-4. git commit - captures a snapshot of the project's currently staged changes
-5. git push - uploads local repository content to a remote repository
-6. git pull - updates the local version of a repository from a remote repository
-7. git clone - creates a clone or copy of the existing repository into the targeted repository
+* Course title, your name, assignment requirements, as per A1;
+* Screenshot of Main/Splash page
+* Screenshot of Failed Validation
+* Screenshot of Passed Validation
 
 #### Assignment Screenshots:
 
-*Screenshot of AMPPS running http://localhost*:
+*Screenshot of Main/Splash Page*:
 
-![AMPPS Installation Screenshot](img/ampps.png "PHP and MySQL Screenshot")
+![Main/Splash Screenshot](img/Main.png "Main/Splash")
 
-*Screenshot of running java Hello*:
+*Screenshot of failed validation*:
 
-![JDK Installation Screenshot](img/jdk_install.png "Java Hello Screenshot")
+![Failed Validation Screenshot](img/Failed.png "Failed Validation Screenshot")
 
-*Screenshot of Android Studio - My First App*:
+*Screenshot of Passed Validation*:
 
-![Android Studio Installation Screenshot](img/android.png "Android Studio Screenshot")
+![Passed Validation Screenshot](img/Passed.png "Passed Validation Screenshot")
 
-#### Tutorial Links:
-
-*Bitbucket Tutorial - Station Locations:*
-[A1 Bitbucket Station Locations Tutorial Link](https://bitbucket.org/ronaldtang1/bitbucketstationlocations/ "Bitbucket Station Locations")
+#### Remote Repository:
 
 *Remote repository:*
 [My Remote Repository ](https://bitbucket.org/ronaldtang1/lis4381/ "My Remote Repository")

@@ -4,11 +4,11 @@
 <meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<meta name="description" content="My online portfolio that illustrates skills acquired while working through various project requirements.">
+	<meta name="description" content="The work that I completed throughout my LIS4368 - Advanced Web Applications Development course.">
 	<meta name="author" content="Ronald Tang">
-	<link rel="icon" href="favicon.ico">
+	<link rel="icon" type="image/x-icon" href="favicon.ico" />
 
-	<title>My Online Portfolio</title>
+	<title>Ronald's Online Portfolio</title>
 
 	<%@ include file="/css/include_css.jsp" %>		
 
@@ -69,30 +69,30 @@ h2
        <!-- Carousel items -->
         <div class="carousel-inner">
 
-				 <div class="active item" style="background: url(img/slide1.png) no-repeat left center; background-size: cover;">
+				 <div class="active item" style="background: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)), url(img/slide2.png) no-repeat left center; background-size: contain;">
 					 <div class="container">
 						 <div class="carousel-caption">
-								<h3>First slide label.</h3>
-							 <p class="lead">Checked in my Linkedin Account.</p>
-							 <a class="btn btn-large btn-primary" href="#">Learn more</a>
+								<h3>Bitbucket Repository</h3>
+							 <p class="lead">Link to Bitbucket repository for Advanced Web Applications Development (LIS4368)</p>
+							 <a class="btn btn-large btn-primary" href="https://bitbucket.org/ronaldtang1/lis4368/src/master/" target="_blank">View Repository</a>
 						 </div>
 					 </div>
 				 </div>					
 
-         <div class="item" style="background: url(img/slide2.png) no-repeat left center; background-size: cover;">
-                <h2>Slide 2</h2>
+         <div class="item" style="background: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)), url(img/slide1.png) no-repeat left center; background-size: contain;">
                 <div class="carousel-caption">
-                  <h3>Second slide label</h3>
-                  <p>Check out my Bitbucket.</p>
+                  <h3>LinkedIn</h3>
+                  <p>View my LinkedIn profile below.</p>
+				  <a class="btn btn-large btn-primary" href="https://www.linkedin.com/in/ronald-tang-9016291b8/" target="_blank">View My LinkedIn</a>
 						 <!--  <img src="img/slide2.png" alt="Slide 2">									 -->						
                 </div>
             </div>
 
-         <div class="item" style="background: url(img/slide3.png) no-repeat left center; background-size: cover;">
-                <h2>Slide 3</h2>
+         <div class="item" style="background: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)), url(img/slide3.png) no-repeat left center; background-size: contain;">
                 <div class="carousel-caption">
-                  <h3>Third slide label</h3>
-                  <p>Check out my Github repositories.</p>
+                  <h3>Github</h3>
+                  <p>View my Github profile below.</p>
+				  <a class="btn btn-large btn-primary" href="https://github.com/ronaldtang1?tab=repositories" target="_blank">Link to Github</a>
 						<!--  <img src="img/slide3.png" class="img-responsive" alt="Slide 3">							 -->								
                 </div>
             </div>
