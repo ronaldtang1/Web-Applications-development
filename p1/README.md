@@ -24,13 +24,9 @@
 
 ![Main/Splash Screenshot](img/Main.png "Main/Splash")
 
-*Screenshot of failed validation*:
-
-![Failed Validation Screenshot](img/Failed.png "Failed Validation Screenshot")
-
-*Screenshot of Passed Validation*:
-
-![Passed Validation Screenshot](img/Passed.png "Passed Validation Screenshot")
+| Screenshot of Failed Validation | Screenshot of Passed Validation |
+| ---------- | ---------- |
+| ![Failed Validation Screenshot](img/Failed.png) | ![Passed Validation Screenshot](img/Passed.png) |
 
 *Screenshot of Skillset 7*:
 
