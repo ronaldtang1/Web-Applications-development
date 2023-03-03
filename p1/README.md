@@ -16,6 +16,7 @@
 * Screenshot of Main/Splash page
 * Screenshot of Failed Validation
 * Screenshot of Passed Validation
+* Screenshot of Skillsets 7, 8, 9
 
 #### Assignment Screenshots:
 
@@ -31,7 +32,15 @@
 
 ![Passed Validation Screenshot](img/Passed.png "Passed Validation Screenshot")
 
+| Skillset 7 | Skillset 8 Part 1 | Skillset 8 Part 2 |
+| ---------- | ---------- | ---------- |
+| ![Screenshot of Skillset 7](img/ss7.png) | ![Screenshot of Skillset 8 part 1](img/ss8_one.png) | ![Screenshot of Skillset 8 part 2](img/ss8_two.png) |
+
+*Screenshot of Skillset 9*:
+
+![Skillset 9 Screenshot](img/ss9.png "Grade Calculator Screenshot")
+
 #### Remote Repository:
 
 *Remote repository:*
-[My Remote Repository ](https://bitbucket.org/ronaldtang1/lis4381/ "My Remote Repository")
+[My Remote Repository ](https://bitbucket.org/ronaldtang1/lis4368/ "My Remote Repository")
