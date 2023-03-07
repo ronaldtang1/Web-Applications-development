@@ -32,9 +32,9 @@
 
 ![Skillset 7 Screenshot](img/ss7.png "Skillset 7 Screenshot")
 
-| Skillset 8 Part 1 | Skillset 8 Part 2 |
-| ---------- | ---------- |
-| ![Screenshot of Skillset 8 part 1](img/ss8_one.png) | ![Screenshot of Skillset 8 part 2](img/ss8_two.png) |
+*Screenshot of Skillset 8*:
+
+![Skillset 8 Screenshot](img/new_ss8.png "Skillset 8 Screenshot")
 
 *Screenshot of Skillset 9*:
 
