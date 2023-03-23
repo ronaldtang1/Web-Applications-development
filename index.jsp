@@ -14,6 +14,10 @@
 
 <!-- Carousel styles -->
 <style type="text/css">
+	body {
+		background-image: linear-gradient(to right, #222, #AAF, #222);
+	}
+
 h2
 {
 	margin: 0;     

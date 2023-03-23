@@ -29,6 +29,10 @@
         * a3.sql
 
 1. [A4 README.md](a4/README.md "My A4 README.md file")
+    - Edit customerform.jsp and thanks.jsp
+    - Add server-side validation to WEB-INF/classes/crud Customer.java and CustomerServlet.java
+    - Compile Customer.java and CustomerServlet.java with servlet-api.jar
+    - Run A4 on tomcat
 
 2. [A5 README.md](a5/README.md "My A5 README.md file")
 
