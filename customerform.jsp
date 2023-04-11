@@ -15,7 +15,13 @@
 
 	<title>LIS4368 - JSP Forms</title>
 
-	<%@ include file="/css/include_css.jsp" %>		
+	<%@ include file="/css/include_css.jsp" %>	
+        
+        <style>
+		body {
+			background-image: linear-gradient(to right, #222, #AAF, #222);
+		}
+	</style>
 	
 </head>
 <body>

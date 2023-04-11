@@ -35,6 +35,10 @@
     - Run A4 on tomcat
 
 2. [A5 README.md](a5/README.md "My A5 README.md file")
+    - Create data directory inside lis4368/WEB-INF/classes/crud
+    - Create java files inside data directory called ConnectionPool, CustomerDB, DBUtil
+    - Compile new java files using *.java and servlet-api.jar on CustomerServlet.java
+    - Run A5 on tomcat
 
 3. [P1 README.md](p1/README.md "My P1 README.md file")
     - Add jQuery validation to p1/index.jsp

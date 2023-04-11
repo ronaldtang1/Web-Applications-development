@@ -1,51 +1,33 @@
-# LIS 4381 - Mobile Web Application Development
-
+# LIS 4368 - Advanced Web Applications Development 
 ## Ronald Tang
 
-### Assignment 1 Requirements:
+### Assignment 5 Requirements:
 
 *Three parts:*
 
-1. Distributed Version Control with Git and Bitbucket
-2. Development Installations
-3. Chapter Questions (Chs 1,2)
+1. Provide Bitbucketread-only access to lis4368repo, include links to the other assignment repos you created in README.md, using Markdownsyntax(README.mdmust also include screenshots as per above.)
+2. Blackboard Links:lis4368 Bitbucket repo
 
 #### README.md file should include the following items:
 
-* Screenshot of AMPPS Installation
-* Screenshot of running java Hello
-* Screenshot of running Android Studio - My First App
-* Git commands w/short descriptions
-* Bitbucket repo links
-
-> #### Git commands w/short descriptions:
-
-1. git init - initializes a new repository
-2. git status - displays the state of the working directory and the staging area
-3. git add - adds a change in the working directory to the staging area
-4. git commit - captures a snapshot of the project's currently staged changes
-5. git push - uploads local repository content to a remote repository
-6. git pull - updates the local version of a repository from a remote repository
-7. git clone - creates a clone or copy of the existing repository into the targeted repository
+* Course title, your name, assignment requirements, as per A1;
+* Screenshot of Skillsets 13 - 15
+* Screenshot of Valid User Form Entry
+* Screenshot of Passed Validation
+* Screenshot of Associated Database Entry
 
 #### Assignment Screenshots:
 
-*Screenshot of AMPPS running http://localhost*:
+| Screenshot of Valid User Entry Form | Screenshot of Passed Validation |
+| ---------- | ---------- |
+| ![Valid User Entry Screenshot](img/form_entry.png) | ![Passed Validation Screenshot](img/submit.png) |
 
-![AMPPS Installation Screenshot](img/ampps.png "PHP and MySQL Screenshot")
 
-*Screenshot of running java Hello*:
+| Skillset 13 | Skillset 14 | Skillset 15 |
+| ---------- | ---------- | ---------- |
+| ![Screenshot of Skillset 13](img/ss13.png) | ![Screenshot of Skillset 14](img/ss14.png) | ![Screenshot of Skillset 15](img/ss15.png) |
 
-![JDK Installation Screenshot](img/jdk_install.png "Java Hello Screenshot")
-
-*Screenshot of Android Studio - My First App*:
-
-![Android Studio Installation Screenshot](img/android.png "Android Studio Screenshot")
-
-#### Tutorial Links:
-
-*Bitbucket Tutorial - Station Locations:*
-[A1 Bitbucket Station Locations Tutorial Link](https://bitbucket.org/ronaldtang1/bitbucketstationlocations/ "Bitbucket Station Locations")
+#### Remote Repository:
 
 *Remote repository:*
-[My Remote Repository ](https://bitbucket.org/ronaldtang1/lis4381/ "My Remote Repository")
+[My Remote Repository ](https://bitbucket.org/ronaldtang1/lis4368/ "My Remote Repository")

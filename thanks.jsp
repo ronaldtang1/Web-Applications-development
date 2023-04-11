@@ -43,6 +43,8 @@
 			<label>Balance:</label> <c:out value="${user.balance}" /> <br />
 			<label>Total Sales:</label> <c:out value="${user.totalSales}" /> <br />
 			<label>Notes:</label> <c:out value="${user.notes}" /> <br />
+			<!-- <label>Notes:</label> "${user.notes}" /> <br /> <br /> -->
+
 			<p>To enter another record click Return.</p>
 			<form method="post" class="form-horizontal" action="${pageContext.request.contextPath}/customerAdmin">
 				<input type="hidden" name="action" value="join">
