@@ -46,4 +46,8 @@
     - After testing validation, use HTML5 property to limit the number of characters for each control
 
 4. [P2 README.md](p2/README.md "My P2 README.md file")
+    - Include server-side validation from A4
+    - Add new methods to CustomerDB.java
+    - Compile data files and CustomerServlet.java again
+    - Test new functionality: select, insert, update, delete
 

@@ -83,15 +83,15 @@ public class CustomerServlet extends HttpServlet
 		//from customers.jsp
 		else if (action.equals("modify_customer"))
 			{
-				//Customer user = CustomerDB.selectCustomer(cid);
-				//session.setAttribute("user", user); //Pass data from servlet to jsp using session and setAttribute("name","value") method
+				Customer user = CustomerDB.selectCustomer(cid);
+				session.setAttribute("user", user); //Pass data from servlet to jsp using session and setAttribute("name","value") method
 				url = "/modify.jsp"; //pass user to modify.jsp, and display data
 			}
 		//from customerform.jsp
 		else if (action.equals("display_customers"))
 			{
-				//ArrayList<Customer> users = CustomerDB.selectCustomers();            
-				//request.setAttribute("users", users);
+				ArrayList<Customer> users = CustomerDB.selectCustomers();            
+				request.setAttribute("users", users);
 				url = "/customers.jsp"; //pass user to customers.jsp, and display all values
 			}
 		//from customers.jsp
@@ -134,7 +134,7 @@ public class CustomerServlet extends HttpServlet
 				request.setAttribute("message", message);
 			}
 
-		/* 
+		 
 		else if (action.equals("update_customer"))
 			{
 				// get parameters from the request
@@ -174,27 +174,27 @@ public class CustomerServlet extends HttpServlet
 						user.setNotes(notes_v);
 
 						// update customer				 
-						//CustomerDB.update(user);
+						CustomerDB.update(user);
 						
 						// display updated customers
-						//ArrayList<Customer> users = CustomerDB.selectCustomers();            
-						//request.setAttribute("users", users);
+						ArrayList<Customer> users = CustomerDB.selectCustomers();            
+						request.setAttribute("users", users);
 						url = "/customers.jsp"; //pass user to customers.jsp page
 					}				
 			}
-			*/
+			
 		
 		else if (action.equals("delete_customer"))
 			{
 				// get customer
-				//Customer user = CustomerDB.selectCustomer(cid);
+				Customer user = CustomerDB.selectCustomer(cid);
 
 				// delete customer
-				//CustomerDB.delete(user);
+				CustomerDB.delete(user);
             
 				// display remaining customers
-				//ArrayList<Customer> users = CustomerDB.selectCustomers();            
-				//request.setAttribute("users", users);
+				ArrayList<Customer> users = CustomerDB.selectCustomers();            
+				request.setAttribute("users", users);
 
 				url = "/customers.jsp"; //pass user to customers.jsp page
 			}
