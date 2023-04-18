@@ -4,7 +4,7 @@
 
 ### Project 2 Requirements:
 
-*Three parts:*
+*Two parts:*
 
 1. Provide Bitbucketread-only access to lis4368repo, include links to the other assignment repos you created in README.md, using Markdownsyntax(README.mdmust also include screenshots as per above.)
 2. Blackboard Links:lis4368 Bitbucket repo
